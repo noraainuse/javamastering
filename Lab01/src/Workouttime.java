@@ -14,8 +14,13 @@ public class Workouttime {
         int time2 = tip.nextInt();
         int timeAll = time1 + time2;
         int sec = timeAll % 60;
-        int min = timeAll / 60;
-        int hour = min / 60;
-        System.out.println("It is " + hour + " hours " + min + " minutes and " + sec + " seconds.");
+        int hour = timeAll / 60;
+        int min = hour % 60;
+        int hourfin = hour / 60;
+        
+        
+        
+        
+        System.out.println("It is " + hourfin + " hours " + min + " minutes and " + sec + " seconds.");
     }
 }
