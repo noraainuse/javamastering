@@ -1,0 +1,59 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "newline_i_beam",
+      "request": "launch",
+      "mainClass": "newline_i_beam",
+      "projectName": "javamastering_9fef9bd9"
+    },
+    {
+      "type": "java",
+      "name": "slashAssign",
+      "request": "launch",
+      "mainClass": "slashAssign",
+      "projectName": "javamastering_9fef9bd9"
+    },
+    {
+      "type": "java",
+      "name": "MaximumAndMinimum",
+      "request": "launch",
+      "mainClass": "MaximumAndMinimum",
+      "projectName": "javamastering_9fef9bd9"
+    },
+    {
+      "type": "java",
+      "name": "Deposit",
+      "request": "launch",
+      "mainClass": "Deposit",
+      "projectName": "javamastering_9fef9bd9"
+    },
+    {
+      "type": "java",
+      "name": "Consonants",
+      "request": "launch",
+      "mainClass": "Consonants",
+      "projectName": "javamastering_9fef9bd9"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": false,
+      "cwd": "/home/lynn/codex/javamastering",
+      "program": "/home/lynn/codex/javamastering/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
