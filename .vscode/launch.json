@@ -3,6 +3,83 @@
   "configurations": [
     {
       "type": "java",
+      "name": "MainFootballPlayer2",
+      "request": "launch",
+      "mainClass": "Lab05.q3.MainFootballPlayer2",
+      "projectName": "javamastering_e2e8d061"
+    },
+    {
+      "type": "java",
+      "name": "MainFootballPlayer1",
+      "request": "launch",
+      "mainClass": "Lab05.q3.MainFootballPlayer1",
+      "projectName": "javamastering_e2e8d061"
+    },
+    {
+      "type": "java",
+      "name": "MainPlayer2",
+      "request": "launch",
+      "mainClass": "Lab05.q3.MainPlayer2",
+      "projectName": "javamastering_e2e8d061"
+    },
+    {
+      "type": "java",
+      "name": "MainPlayer1",
+      "request": "launch",
+      "mainClass": "Lab05.q3.MainPlayer1",
+      "projectName": "javamastering_e2e8d061"
+    },
+    {
+      "type": "java",
+      "name": "MainPlayer",
+      "request": "launch",
+      "mainClass": "Lab05.q3.MainPlayer",
+      "projectName": "javamastering_e2e8d061"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "Lab05.q1.Main",
+      "projectName": "javamastering_e2e8d061"
+    },
+    {
+      "type": "java",
+      "name": "MainClass",
+      "request": "launch",
+      "mainClass": "Lab04.q7.MainClass",
+      "projectName": "javamastering_e2e8d061"
+    },
+    {
+      "type": "java",
+      "name": "MainLibrary",
+      "request": "launch",
+      "mainClass": "Lab04.q6.MainLibrary",
+      "projectName": "javamastering_e2e8d061"
+    },
+    {
+      "type": "java",
+      "name": "MainBook",
+      "request": "launch",
+      "mainClass": "Lab04.q6.MainBook",
+      "projectName": "javamastering_e2e8d061"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "Lab04.q5.Main",
+      "projectName": "javamastering_e2e8d061"
+    },
+    {
+      "type": "java",
+      "name": "MainFraction",
+      "request": "launch",
+      "mainClass": "Lab04.q4.MainFraction",
+      "projectName": "javamastering_e2e8d061"
+    },
+    {
+      "type": "java",
       "name": "newline_i_beam",
       "request": "launch",
       "mainClass": "newline_i_beam",
